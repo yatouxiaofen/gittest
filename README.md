@@ -1,6 +1,4 @@
-# gittest
 git命令学习使用
-
 git add
 git commit 
 git commit -m "注释内容"
